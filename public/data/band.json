@@ -1,0 +1,37 @@
+{
+  "name": "Infected Rain",
+  "origin": {
+    "city": "Chisinau",
+    "country": "Moldova"
+  },
+  "formed_in": 2008,
+  "bio": "Sample biography text. This biography is loaded from JSON and displayed semantically using <article> and <section>.",
+  "logo": "/assets/infected-rain-logo.png",
+  "band_photo": "/assets/infected-rain-band.jpg",
+  "members": [
+    {
+      "name": "Lena Scissorhands",
+      "role": "Vocals",
+      "photo": "/assets/lena-scissorhands.jpg",
+      "since": 2008
+    },
+    {
+      "name": "Vadim \"Vidick\" Ojog",
+      "role": "Guitar",
+      "photo": "/assets/vadim-vidick.jpg",
+      "since": 2008
+    },
+    {
+      "name": "Eugen Voluta",
+      "role": "Drums",
+      "photo": "/assets/eugen-voluta.jpg",
+      "since": 2011
+    },
+    {
+      "name": "Maxim \"Maddy\" Cazac",
+      "role": "Bass",
+      "photo": "/assets/maxim-maddy.jpg",
+      "since": 2018
+    }
+  ]
+}

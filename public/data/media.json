@@ -1,0 +1,25 @@
+{
+  "photos": [
+    {
+      "id": "p1",
+      "src": "/assets/palaceholder.jpg",
+      "alt": "Live Photo 1",
+      "caption": "Live 2024"
+    }
+  ],
+  "videos": [
+    {
+      "id": "v1",
+      "title": "Official Video",
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=IF3YhuNJR2U"
+    }
+  ],
+  "audio": [
+    {
+      "id": "au1",
+      "title": "Single - Sampler",
+      "src": "/assets/placeholder-audio.mp3"
+    }
+  ]
+}

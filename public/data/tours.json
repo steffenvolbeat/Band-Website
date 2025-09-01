@@ -1,0 +1,20 @@
+{
+  "upcoming": [
+    {
+      "id": "t1",
+      "date": "2025-10-12",
+      "city": "Berlin",
+      "country": "Germany",
+      "venue": "Kesselhaus",
+      "tickets": "https://www.eventim.de/artist/infected-rain/t1"
+    },
+    {
+      "id": "t2",
+      "date": "2025-11-05",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "venue": "Lucerna Music Bar",
+      "tickets": "https://www.eventim.de/artist/infected-rain/t2"
+    }
+  ]
+}

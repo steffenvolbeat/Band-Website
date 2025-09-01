@@ -1,0 +1,19 @@
+{
+    "albums": [
+        {
+            "id": "a1",
+            "title": "Ecdysis",
+            "date": "2023-10-20",
+            "cover": "/assets/album-covers/ecdysis.jpg",
+            "track": [
+                {"id": "t1", "title": "The Fall", "length": "4:20"},
+                {"id": "t2", "title": "Metamorphosis", "length": "3:50"},
+                {"id": "t3", "title": "Rebirth", "length": "5:10"}
+            ],
+            "link": {
+                "spotify": "https://spotify.com/album/ecdysis",
+                "applemusic": "https://music.apple.com/album/ecdysis"
+            }
+        }
+    ]
+}

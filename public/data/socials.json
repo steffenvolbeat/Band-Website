@@ -1,0 +1,6 @@
+{
+    "socials":[
+        {"provider": "YouTube", "url":"https://youtube.com", "label":"YouTube"},
+        {"provider": "Instagram", "url":"https://instagram.com", "label":"Instagram"}
+    ]
+}
